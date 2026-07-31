@@ -256,6 +256,7 @@ textarea {
     padding: 20px 0;
     transition: .3s;
     position: relative;
+    overflow-y: auto;
 }
 
 .dashboard .side-bar.collapsed {

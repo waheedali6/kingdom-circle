@@ -16,7 +16,7 @@
                 <li><a class="<?php echo ($currentPage === 'prayer-requests') ? 'active' : ''; ?>" href="prayer-requests.php"><i class="fa-solid fa-hands-praying"></i> <span>Prayer Requests</span></a></li>
                 <li><a class="" href="bible.php"><i class="fa-solid fa-bible"></i> <span>Read Bible</span></a></li>
                 <li><a class="<?php echo ($currentPage === 'chat') ? 'active' : ''; ?>" href="chat.php"><i class="fa-solid fa-comment-dots"></i> <span>Chat Rooms</span></a></li>
-                <li><a class="<?php echo ($currentPage === 'payment-history') ? 'active' : ''; ?>" href="payment-history.php"><i class="fa-solid fa-comment-dots"></i> <span>Payment History</span></a></li>
+                <li><a class="<?php echo ($currentPage === 'payment-history') ? 'active' : ''; ?>" href="payment-history.php"><i class="fa-solid fa-credit-card"></i> <span>Payment History</span></a></li>
                 <li><a class="<?php echo ($currentPage === 'settings') ? 'active' : ''; ?>" href="settings.php"><i class="fa-solid fa-gear"></i> <span>Settings</span></a></li>
 
                 <li class="logout-btn logout-toggle"><a href="#"><i class="fa-solid fa-arrow-right-from-bracket"></i>

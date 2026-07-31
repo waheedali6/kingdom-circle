@@ -32,7 +32,7 @@
                                         </div>
                                     </div>
                                     <div class="edit-box">
-                                        <h6 class="label">last Name</h6>
+                                        <h6 class="label">Last Name</h6>
                                         <div class="input-box form-control">
                                             <input type="text" value="Smith">
                                         </div>
