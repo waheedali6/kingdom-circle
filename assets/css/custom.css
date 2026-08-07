@@ -349,7 +349,6 @@ input[type="radio"] {
   left: 0px;
 }
 
-.carousel-indicators {}
 
 .carousel-indicators [data-bs-target] {
   box-sizing: content-box;

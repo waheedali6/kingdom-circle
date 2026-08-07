@@ -16,19 +16,11 @@
 
 
 
-
-
-
-
-
-
-
-
     <?php include 'includes/about-sec.php';?>
 
     <?php include 'includes/counter-sec.php';?>
 
- <section class="how-it-works-section fix section-padding" style="background: #fff;">
+    <section class="how-it-works-section fix section-padding" style="background: #fff;">
         <div class="container">
 
             <div class=" text-center mb-4">

@@ -1,3 +1,88 @@
+      <div class="main_modal login">
+        <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalToggleLabel">LogIn Form</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+              </div>
+              <div class="modal-body">
+                <div class="contact-form-wrap">
+                  <form class="contact-form">
+                    <div class="row g-3">
+                      <div class="col-md-12">
+                        <label for="contactName">User Name</label>
+                        <input type="text" id="contactName" class="form-control" placeholder="Eg. Jane Cole">
+        
+                        <label for="contactName">Password</label>
+                        <input type="password" id="Password" class="form-control" placeholder="*****">
+                      </div>
+                    </div>
+                    <button type="submit" class="btn btn-submit">LogIn</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <div class="main_modal">
+        <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalToggleLabel">Registration</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+              </div>
+              <div class="modal-body">
+                <div class="contact-form-wrap">
+                  <form class="contact-form">
+                    <div class="row g-3">
+                      <div class="col-md-6">
+                        <label for="contactName">Enter Your Name</label>
+                        <input type="text" id="contactName" class="form-control" placeholder="Eg. Jane Cole">
+                      </div>
+                      <div class="col-md-6">
+                        <label for="contactEmail">Enter Your Email</label>
+                        <input type="email" id="contactEmail" class="form-control" placeholder="Email">
+                      </div>
+                    </div>
+                    <div class="row g-3">
+                      <div class="col-md-12">
+                        <label for="contactEmail">Phone Number</label>
+                        <input type="number" id="contactnNumber" class="form-control" placeholder="">
+                      </div>
+                    </div>
+                    <div class="row g-3">
+                      <div class="col-md-6">
+                        <label for="contactName">Create Password</label>
+                        <input type="password" id="Password" class="form-control" placeholder="*****">
+                      </div>
+                      <div class="col-md-6">
+                        <label for="contactEmail">Confirm Password</label>
+                        <input type="password" id="changePassword" class="form-control" placeholder="*****">
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                              <div class="form-group">
+                                  <input type="checkbox" id="html">
+                                  <label for="html">I Accept All Term & Conditions</label>
+                                </div>    
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-submit">Register Now</button>
+                    <p>Already have an account <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModalToggle2">LogIn Now</a></p>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+      
+      
       <footer class="footerSec">
       <div class="container">
         <div class="row main">
@@ -62,14 +147,12 @@
       </div>
     </div>  
     <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <!-- <script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script> -->
     <script src="assets/js/wow.js"></script>
     <script src="assets/slick/slick.min.js"></script>
     <script src="assets/js/jquery.slicknav.js"></script>
     <script src="assets/js/jquery.fancybox.min.js"></script>
     <script src="assets/js/bootstrap.js"></script>
-	<script src="assets/js/stellarnav.min.js"></script>
-	<script src="assets/js/owl.carousel.min.js"></script>
+	  <script src="assets/js/stellarnav.min.js"></script>
     <script src="assets/js/cart.js"></script>
     <script src="assets/js/aos.js"></script>
     <script src="assets/js/custom.js"></script>
@@ -78,9 +161,7 @@
       AOS.init();
 
       const counters = document.querySelectorAll(".counter");
-
         const animateCounter = (counter) => {
-
             const target = +counter.dataset.target;
             const duration = 2000;
             const increment = target / (duration / 16);
@@ -88,140 +169,36 @@
             let current = 0;
 
             const update = () => {
-
                 current += increment;
-
                 if(current < target){
-
-                    counter.innerText = Math.floor(current).toLocaleString();
-                    requestAnimationFrame(update);
-
+                  counter.innerText = Math.floor(current).toLocaleString();
+                  requestAnimationFrame(update);
                 }else{
-
-                    counter.innerText = target.toLocaleString();
-
+                  counter.innerText = target.toLocaleString();
                 }
-
             };
-
             update();
-
         };
 
 
         const observer = new IntersectionObserver((entries, observer)=>{
-
             entries.forEach(entry=>{
-
                 if(entry.isIntersecting){
-
                     counters.forEach(counter=>{
-
-                        if(!counter.classList.contains("counted")){
-
-                            counter.classList.add("counted");
-                            animateCounter(counter);
-
-                        }
-
+                      if(!counter.classList.contains("counted")){
+                        counter.classList.add("counted");
+                        animateCounter(counter);
+                      }
                     });
-
                     observer.disconnect();
-
                 }
-
             });
-
         },{
-            threshold:0.4
+           threshold:0.4
         });
-
         observer.observe(document.querySelector(".counter-section"));
     </script>
 
-<div class="main_modal login">
-    <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalToggleLabel">LogIn Form</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
-          </div>
-          <div class="modal-body">
-            <div class="contact-form-wrap">
-              <form class="contact-form">
-                <div class="row g-3">
-                  <div class="col-md-12">
-                    <label for="contactName">User Name</label>
-                    <input type="text" id="contactName" class="form-control" placeholder="Eg. Jane Cole">
-    
-                    <label for="contactName">Password</label>
-                    <input type="password" id="Password" class="form-control" placeholder="*****">
-                  </div>
-                </div>
-                <button type="submit" class="btn btn-submit">LogIn</button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-</div>
-
-<div class="main_modal">
-    <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalToggleLabel">Registration</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
-          </div>
-          <div class="modal-body">
-            <div class="contact-form-wrap">
-              <form class="contact-form">
-                <div class="row g-3">
-                  <div class="col-md-6">
-                    <label for="contactName">Enter Your Name</label>
-                    <input type="text" id="contactName" class="form-control" placeholder="Eg. Jane Cole">
-                  </div>
-                  <div class="col-md-6">
-                    <label for="contactEmail">Enter Your Email</label>
-                    <input type="email" id="contactEmail" class="form-control" placeholder="Email">
-                  </div>
-                </div>
-                <div class="row g-3">
-                   <div class="col-md-12">
-                    <label for="contactEmail">Phone Number</label>
-                    <input type="number" id="contactnNumber" class="form-control" placeholder="">
-                  </div>
-                </div>
-                <div class="row g-3">
-                  <div class="col-md-6">
-                    <label for="contactName">Create Password</label>
-                    <input type="password" id="Password" class="form-control" placeholder="*****">
-                  </div>
-                  <div class="col-md-6">
-                    <label for="contactEmail">Confirm Password</label>
-                    <input type="password" id="changePassword" class="form-control" placeholder="*****">
-                  </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                          <div class="form-group">
-                              <input type="checkbox" id="html">
-                              <label for="html">I Accept All Term & Conditions</label>
-                            </div>    
-                    </div>
-                </div>
-                <button type="submit" class="btn btn-submit">Register Now</button>
-                <p>Already have an account <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModalToggle2">LogIn Now</a></p>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-</div>
   </body>
 
 </php>

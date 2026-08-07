@@ -14,7 +14,6 @@
     <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet" >
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/stellarnav.min.css" rel="stylesheet">
-    <link href="assets/css/owl.carousel.min.css" rel="stylesheet" >
     <link href="assets/css/responsive.css" rel="stylesheet">
     <link href="assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/jquery.easy_slides.css" rel="stylesheet" />
