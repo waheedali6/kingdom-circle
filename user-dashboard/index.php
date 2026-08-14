@@ -8,7 +8,7 @@
           <?php include 'includes/topbar.php'; ?>
             <main class="content">
                 <div class="row">
-                     <div class="col-12 col-xl-6">
+                     <div class="col-sm-12 col-md-6 col-lg-6">
                        <div class="live-box prayer">
                           <div class="head">
                             <i class="fa-solid fa-book-open"></i>
@@ -27,66 +27,66 @@
                           </div>
                           <div class="req-box">
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
                               </div>
-                              <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
+                              <span><a href="../podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
                               </div>
-                              <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
+                              <span><a href="../podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
                               </div>
-                              <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
+                              <span><a href="../podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
                               </div>
-                              <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
+                              <span><a href="../podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
                               </div>
-                              <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
+                              <span><a href="../podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
                               </div>
-                              <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
+                              <span><a href="../podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
                               </div>
-                              <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
+                              <span><a href="../podcast-detail.php">Watch</a></span>
                             </div>
                           </div>
                        </div>
                      </div>                     
                                           
-                      <div class="col-12 col-xl-6">
+                      <div class="col-sm-12 col-md-6 col-lg-6">
                         <div class="live-box messages">
                               <div class="head">
                                 <h6>New Messages</h6>
@@ -94,7 +94,7 @@
                               </div>
                               <div class="req-box">
                                 <div class="chat">
-                                  <img src="assets/img/men.png" alt="">
+                                  <img src="../assets/images/men.png" alt="">
                                   <div class="c-content ">
                                       <h5>Mark Doe</h5>
                                       <p>Please pray for my mother's health</p>
@@ -102,7 +102,7 @@
                                   <span class="time">2h ago</span>
                                 </div>
                                 <div class="chat">
-                                  <img src="assets/img/men.png" alt="">
+                                  <img src="../assets/images/men.png" alt="">
                                   <div class="c-content ">
                                       <h5>Mark Doe</h5>
                                       <p>Please pray for my mother's health</p>
@@ -110,7 +110,7 @@
                                   <span class="time">2h ago</span>
                                 </div>
                                 <div class="chat">
-                                  <img src="assets/img/men.png" alt="">
+                                  <img src="../assets/images/men.png" alt="">
                                   <div class="c-content ">
                                       <h5>Mark Doe</h5>
                                       <p>Please pray for my mother's health</p>
@@ -118,7 +118,7 @@
                                   <span class="time">2h ago</span>
                                 </div>
                                 <div class="chat">
-                                  <img src="assets/img/men.png" alt="">
+                                  <img src="../assets/images/men.png" alt="">
                                   <div class="c-content ">
                                       <h5>Mark Doe</h5>
                                       <p>Please pray for my mother's health</p>
@@ -126,7 +126,7 @@
                                   <span class="time">2h ago</span>
                                 </div>
                                 <div class="chat">
-                                  <img src="assets/img/men.png" alt="">
+                                  <img src="../assets/images/men.png" alt="">
                                   <div class="c-content ">
                                       <h5>Mark Doe</h5>
                                       <p>Please pray for my mother's health</p>
@@ -134,7 +134,7 @@
                                   <span class="time">2h ago</span>
                                 </div>
                                 <div class="chat">
-                                  <img src="assets/img/men.png" alt="">
+                                  <img src="../assets/images/men.png" alt="">
                                   <div class="c-content ">
                                       <h5>Mark Doe</h5>
                                       <p>Please pray for my mother's health</p>

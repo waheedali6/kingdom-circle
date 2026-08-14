@@ -9,7 +9,7 @@
             <main class="content">
                 <div class="row row-gap-3">
                     <div class="col-12 col-md-6">
-                        <div class="church-profile-img" style="background: #00000094 url(assets/img/church-profile-img.jfif)">
+                        <div class="church-profile-img" style="background: #00000094 url(../assets/images/church-profile-img.jfif)">
                             <h4>Grace Fellowship Church</h4>
                             <p class="para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, sunt!</p>
                             <a href="edit-profile.php" class="theme-btn primary"><i class="fa-solid fa-pen"></i> Edit Profile</a>

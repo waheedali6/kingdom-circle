@@ -17,7 +17,7 @@
                                 <div class="input-side">
                                     <div class="edit-box profile-box">
                                         <h6 class="label">Profile Picture</h6>
-                                        <img src="assets/img/church-profile-img.jfif" class="profile-img" alt="">
+                                        <img src="../assets/images/church-profile-img.jfif" class="profile-img" alt="">
                                         <a href="javascript:void(0)" class="theme-btn secondary"><i class="fa-solid fa-upload"></i> Upload New</a>
                                         <p class="para black">JPG, PNG or WEBP. Max 2MB.</p>
                                     </div>

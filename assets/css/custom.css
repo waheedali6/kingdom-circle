@@ -16,17 +16,17 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-    background-color: #F5F5F5;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #F5F5F5;
 }
 
 ::-webkit-scrollbar {
-    width: 5px;
-    background-color: #F5F5F5;
+  width: 5px;
+  background-color: #F5F5F5;
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: var(--color-primary);
+  background-color: var(--color-primary);
 }
 
 a {
@@ -922,7 +922,7 @@ input[type="radio"] {
 
 .main_slider .ben {
   max-width: 100%;
-  height: 90vh;
+  height: 60rem;
   width: 100%;
   object-fit: fill;
 }
@@ -2440,8 +2440,7 @@ footer .cp {
 
 /* //////////////about us page////////// */
 .inner-banner {
-  padding: 5% 0;
-  height: 65vh;
+  padding: 16% 0 5%;
   position: relative;
   background-position: center center;
   background-size: cover;

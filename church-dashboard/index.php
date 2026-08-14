@@ -67,7 +67,7 @@
                           </div>
                           <div class="req-box">
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -75,7 +75,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -83,7 +83,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -91,7 +91,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -99,7 +99,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -107,7 +107,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -115,7 +115,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -123,7 +123,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -131,7 +131,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -139,7 +139,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -147,7 +147,7 @@
                               <span>2 hours ago</span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/men.png" alt="">
+                              <img src="../assets/images/men.png" alt="">
                               <div class="c-content ">
                                   <h5>John Russel</h5>
                                   <p class="para black">Lorem ipsum dolor sit amet</p>
@@ -174,7 +174,7 @@
                           </div>
                           <div class="req-box">
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
@@ -182,7 +182,7 @@
                               <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
@@ -190,7 +190,7 @@
                               <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>
@@ -198,7 +198,7 @@
                               <span><a href="/kingdom/podcast-detail.php">Watch</a></span>
                             </div>
                             <div class="chat">
-                              <img src="assets/img/sermon.webp" class="sermon-img" alt="">
+                              <img src="../assets/images/sermon.webp" class="sermon-img" alt="">
                               <div class="c-content ">
                                   <h5>The Gospel of Luke</h5>
                                   <p>Today, 7:00 PM</p>

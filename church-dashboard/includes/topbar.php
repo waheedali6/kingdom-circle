@@ -12,7 +12,7 @@
                     </a>
                     <div class="admin dropdown-toggle">
                         <div class="profile-pic">
-                            <img src="assets/img/men.png" class="img-fluid" alt="Profile Picture">
+                            <img src="../assets/images/men.png" class="img-fluid" alt="Profile Picture">
                         </div>
                         <strong>Admin</strong>
                         <div class="dropdown">

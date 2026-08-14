@@ -3,8 +3,9 @@
                 <i class="fa-solid fa-xmark"></i>
             </div>
             <a href="index.php" class="logo">
-                <img src="assets/img/logo.png" class="big-logo" alt="Logo">
-                <h4 class="small-logo hide">LG</h4>
+                <img src="../assets/images/logo.png" class="big-logo" alt="Logo">
+                <img src="../assets/images/logo.png" class="small-logo hide" alt="Logo">
+                <!-- <h4 class="small-logo hide">LG</h4> -->
             </a>
             
             <ul class="links">

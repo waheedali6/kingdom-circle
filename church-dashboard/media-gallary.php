@@ -12,7 +12,7 @@
                       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9 order-2 order-lg-1">
                         <div class="post-box">
                           <div class="input-box">
-                            <img src="assets/img/men.png" alt="">
+                            <img src="../assets/images/men.png" alt="">
                             <div class="input-box form-control">
                                 <input type="text" name="post" id="" placeholder="What's on your heart?">
                             </div>
@@ -41,14 +41,14 @@
                           <div class="new">
                             <div class="req-box post">
                               <div class="chat">
-                                <img src="assets/img/church-profile-img.jfif" class="post-author" alt="">
+                                <img src="../assets/images/church-profile-img.jfif" class="post-author" alt="">
                                 <div class="com-content">
                                     <h5>Grace Community Church</h5>
                                     <p>2 hour ago</p>
                                 </div>
                               </div>
                               <p class="post-para para black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut asperiores ea tempora rem explicabo, fugit natus cumque incidunt ut ex quos laborum, beatae officiis voluptas, dolorem iste voluptatem voluptatum odio.</p>
-                              <img class="post-img" src="assets/img/ab_1.jpg" alt="">
+                              <img class="post-img" src="../assets/images/ab_1.jpg" alt="">
                               <div class="post-footer">
                               <div class="com-footer">
                                 <div class="b">
@@ -60,21 +60,21 @@
                               <div class="comments">
                                 <form class="add-comment" action="">
                                   <div class="comment">
-                                    <img src="assets/img/profile-pic.avif" alt="">
+                                    <img src="../assets/images/profile-pic.avif" alt="">
                                     <input type="text" class="form-control" placeholder="Say something...">
                                     <button class="theme-btn primary sm">Add comment</button>
                                   </div>
                                 </form>
                                 <div class="comment">
-                                  <img src="assets/img/church-profile-img.jfif" alt="">
+                                  <img src="../assets/images/church-profile-img.jfif" alt="">
                                   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                 </div>
                                 <div class="comment">
-                                  <img src="assets/img/church-profile-img.jfif" alt="">
+                                  <img src="../assets/images/church-profile-img.jfif" alt="">
                                   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                 </div>
                                 <div class="comment">
-                                  <img src="assets/img/church-profile-img.jfif" alt="">
+                                  <img src="../assets/images/church-profile-img.jfif" alt="">
                                   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                 </div>
                               </div>
@@ -87,7 +87,7 @@
                           <div class="new">
                             <div class="req-box post">
                               <div class="chat">
-                                <img src="assets/img/church-profile-img.jfif" class="post-author"  alt="">
+                                <img src="../assets/images/church-profile-img.jfif" class="post-author"  alt="">
                                 <div class="com-content">
                                     <h5>Grace Community Church</h5>
                                     <p>2 hour ago</p>
@@ -106,21 +106,21 @@
                                 <div class="comments">
                                   <form class="add-comment" action="">
                                   <div class="comment">
-                                    <img src="assets/img/profile-pic.avif" alt="">
+                                    <img src="../assets/images/profile-pic.avif" alt="">
                                     <input type="text" class="form-control" placeholder="Say something...">
                                     <button class="theme-btn primary sm">Add comment</button>
                                   </div>
                                 </form>
                                   <div class="comment">
-                                    <img src="assets/img/church-profile-img.jfif" alt="">
+                                    <img src="../assets/images/church-profile-img.jfif" alt="">
                                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                   </div>
                                   <div class="comment">
-                                    <img src="assets/img/church-profile-img.jfif" alt="">
+                                    <img src="../assets/images/church-profile-img.jfif" alt="">
                                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                   </div>
                                   <div class="comment">
-                                    <img src="assets/img/church-profile-img.jfif" alt="">
+                                    <img src="../assets/images/church-profile-img.jfif" alt="">
                                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                   </div>
                                 </div>
@@ -133,7 +133,7 @@
                           <div class="new">
                             <div class="req-box post">
                               <div class="chat">
-                                <img src="assets/img/church-profile-img.jfif" class="post-author" alt="">
+                                <img src="../assets/images/church-profile-img.jfif" class="post-author" alt="">
                                 <div class="com-content">
                                     <h5>Grace Community Church</h5>
                                     <p>2 hour ago</p>
@@ -151,21 +151,21 @@
                                 <div class="comments">
                                   <form class="add-comment" action="">
                                   <div class="comment">
-                                    <img src="assets/img/profile-pic.avif" alt="">
+                                    <img src="../assets/images/profile-pic.avif" alt="">
                                     <input type="text" class="form-control" placeholder="Say something...">
                                     <button class="theme-btn primary sm">Add comment</button>
                                   </div>
                                 </form>
                                   <div class="comment">
-                                    <img src="assets/img/church-profile-img.jfif" alt="">
+                                    <img src="../assets/images/church-profile-img.jfif" alt="">
                                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                   </div>
                                   <div class="comment">
-                                    <img src="assets/img/church-profile-img.jfif" alt="">
+                                    <img src="../assets/images/church-profile-img.jfif" alt="">
                                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                   </div>
                                   <div class="comment">
-                                    <img src="assets/img/church-profile-img.jfif" alt="">
+                                    <img src="../assets/images/church-profile-img.jfif" alt="">
                                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima labore ipsum magnam quos numquam, doloribus dolorem eveniet asperiores earum, voluptas minus eligendi animi ullam debitis voluptates officia natus dolorum quidem!</p>
                                   </div>
                                 </div>

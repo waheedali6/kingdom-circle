@@ -10,7 +10,7 @@
                <div class="not">
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -20,7 +20,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -30,7 +30,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -50,7 +50,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -60,7 +60,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -70,7 +70,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -80,7 +80,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>
@@ -90,7 +90,7 @@
                     </div>
                     <div class="chat">
                         <div class="left">
-                        <img src="assets/img/men.png" class="not-img" alt="">
+                        <img src="../assets/images/men.png" class="not-img" alt="">
                             <div class="c-content ">
                                     <h5>Event Request Is Accepted</h5>
                                     <p class="para black">Lorem Ipsum is simply dummy text of the printing and typesetting industry simply dummy simply.</p>

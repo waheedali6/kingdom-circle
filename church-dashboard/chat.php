@@ -12,7 +12,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link active" id="home-tab_chat" data-bs-toggle="tab" data-bs-target="#home_chat" type="button" role="tab" aria-controls="home_chat" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>Marriage</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -20,7 +20,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="home-tab_chat" data-bs-toggle="tab" data-bs-target="#home_chat" type="button" role="tab" aria-controls="home_chat" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>Family</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -28,7 +28,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="home-tab_chat" data-bs-toggle="tab" data-bs-target="#home_chat" type="button" role="tab" aria-controls="home_chat" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>Grief & Loss</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -36,7 +36,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="home-tab_chat" data-bs-toggle="tab" data-bs-target="#home_chat" type="button" role="tab" aria-controls="home_chat" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>Prayer Requests</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -44,7 +44,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="home-tab_chat" data-bs-toggle="tab" data-bs-target="#home_chat" type="button" role="tab" aria-controls="home_chat" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>Men's Fellowship</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -52,7 +52,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="home-tab_chat" data-bs-toggle="tab" data-bs-target="#home_chat" type="button" role="tab" aria-controls="home_chat" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>Women's Fellowship</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -65,7 +65,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -99,7 +99,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -133,7 +133,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -167,7 +167,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -201,7 +201,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -235,7 +235,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -269,7 +269,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -303,7 +303,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -337,7 +337,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -371,7 +371,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">

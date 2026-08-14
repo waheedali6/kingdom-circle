@@ -9,7 +9,7 @@
             <main class="content">
                 <div class="row row-gap-3">
                     <div class="col-12 col-md-6">
-                        <div class="church-profile-img" style="background: #00000094 url(assets/img/profile-pic.avif)">
+                        <div class="church-profile-img" style="background: #00000094 url(../assets/images/profile-pic.avif)">
                             <h4>John Smith</h4>
                             <a href="edit-profile.php" class="theme-btn primary"><i class="fa-solid fa-pen"></i> Edit Profile</a>
                         </div>

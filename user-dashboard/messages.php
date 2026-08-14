@@ -12,7 +12,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link active" id="home-tab_chat" data-bs-toggle="tab" data-bs-target="#home_chat" type="button" role="tab" aria-controls="home_chat" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -20,7 +20,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat" data-bs-toggle="tab" data-bs-target="#profile_chat" type="button" role="tab" aria-controls="profile_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -28,7 +28,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat" data-bs-toggle="tab" data-bs-target="#profile_chat" type="button" role="tab" aria-controls="profile_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -36,7 +36,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat" data-bs-toggle="tab" data-bs-target="#profile_chat" type="button" role="tab" aria-controls="profile_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -44,7 +44,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat" data-bs-toggle="tab" data-bs-target="#profile_chat" type="button" role="tab" aria-controls="profile_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -52,7 +52,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat" data-bs-toggle="tab" data-bs-target="#profile_chat" type="button" role="tab" aria-controls="profile_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -60,7 +60,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat" data-bs-toggle="tab" data-bs-target="#profile_chat" type="button" role="tab" aria-controls="profile_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -68,7 +68,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat" data-bs-toggle="tab" data-bs-target="#profile_chat" type="button" role="tab" aria-controls="profile_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -76,7 +76,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab_chat" data-bs-toggle="tab" data-bs-target="#contact_chat" type="button" role="tab" aria-controls="contact_chat" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -84,7 +84,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link " id="home-tab_chat_2" data-bs-toggle="tab" data-bs-target="#home_chat_2" type="button" role="tab" aria-controls="home_chat_2" aria-selected="true">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -92,7 +92,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="profile-tab_chat_2" data-bs-toggle="tab" data-bs-target="#profile_chat_2" type="button" role="tab" aria-controls="profile_chat_2" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -100,7 +100,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab_chat_2" data-bs-toggle="tab" data-bs-target="#contact_chat_2" type="button" role="tab" aria-controls="contact_chat_2" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -108,7 +108,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab_chat_3" data-bs-toggle="tab" data-bs-target="#contact_chat_3" type="button" role="tab" aria-controls="contact_chat_3" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -116,7 +116,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab_chat_4" data-bs-toggle="tab" data-bs-target="#contact_chat_4" type="button" role="tab" aria-controls="contact_chat_4" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -124,7 +124,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab_chat_5" data-bs-toggle="tab" data-bs-target="#contact_chat_5" type="button" role="tab" aria-controls="contact_chat_5" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -132,7 +132,7 @@
                           <li class="nav-item" role="presentation">
                             <a class="nav-link" id="contact-tab_chat_6" data-bs-toggle="tab" data-bs-target="#contact_chat_6" type="button" role="tab" aria-controls="contact_chat_6" aria-selected="false">
                               <span>1</span>
-                              <img src="assets/img/profile-pic.avif" class="img-fluid" alt="">
+                              <img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">
                               <h4>John Doe</h4>
                               <p>Lorem ipsum dolor sit neque sit sec...</p>
                             </a>
@@ -145,7 +145,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -179,7 +179,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -213,7 +213,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -247,7 +247,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -281,7 +281,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -315,7 +315,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -349,7 +349,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -383,7 +383,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -417,7 +417,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
@@ -451,7 +451,7 @@
                           <div class="textarea_main">
                             <div class="chat_right_main">
                                 <div class="chat-top">
-                                  <h3><img src="assets/img/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
+                                  <h3><img src="../assets/images/profile-pic.avif" class="img-fluid" alt="">John Doe</h3>
                                 </div>
                                 <div class="chat-content">
                                  <div class="Yesterday">
